@@ -1,7 +1,7 @@
 Hi there, visitors 👋
 
 - 🔭 I’m a passionate frontend developer from Ukraine;  
-- 🌱 I’m interested in learning JavaScript frameworks and Node.JS;
+- 🌱 I’m interested in learning JavaScript frameworks and Node.js;
 - 📫 How to reach me: ihor.kovalenko.dev@gmail.com;
 - ⚡ Fun fact: I think I am funny;
 
